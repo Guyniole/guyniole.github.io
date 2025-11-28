@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Mon site GitHub Pages</title>
+  <title>guyniole.github.io</title>
 </head>
 <body>
   <h1>Bienvenue sur mon site</h1>
